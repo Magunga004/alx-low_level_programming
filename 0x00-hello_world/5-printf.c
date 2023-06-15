@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
-*main indicating entry point 
+*main - Entry point
 *
-*program printing line of text
+*Return: Always 0 (Success)
+*
 */
-int main( void )
+int main(void)
 {
-	printf( "with poper grammar, but the outcome is a piece of art,\n" );
-return( 0 );
+	printf ("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
